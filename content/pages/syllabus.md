@@ -33,10 +33,47 @@ MIT students will satisfy the HASS CI-H criteria and the course objectives throu
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Recitation + 2 exercises | 30% |
-|  {{< br >}}{{< br >}} 3 Papers {{< br >}}{{< br >}} *   Paper 1: 10% of final grade{{< br >}}*   Paper 2 + rewrite: 30% of final grade{{< br >}}*   Paper 3: 30% of final grade {{< br >}}{{< br >}}  | 70% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation + 2 exercises
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+3 Papers
+
+*   Paper 1: 10% of final grade
+*   Paper 2 + rewrite: 30% of final grade
+*   Paper 3: 30% of final grade
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+70%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Note: MIT students had to pass each component of the course in order to pass the course.
 

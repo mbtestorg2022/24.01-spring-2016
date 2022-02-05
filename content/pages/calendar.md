@@ -4,40 +4,387 @@ title: Calendar
 uid: 92a96131-816c-d67f-5d71-9946edc46013
 ---
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | First class | &nbsp; |
-| {{< td-colspan 3 >}}**Socrates (c. 470 BCE - 399 BCE) and Plato (429? BCE - 347 BCE)**{{< /td-colspan >}} |||
-| 2 | Socrates and the Law | &nbsp; |
-| 3 | Elenchus | &nbsp; |
-| 4 | Akrasia & Pragmatic Paradox | Exercise 1 due |
-| 5 | Knowledge and Learning | &nbsp; |
-| 6 | The Soul in Plato | &nbsp; |
-| {{< td-colspan 3 >}}**Aristotle (384 BCE - 322 BCE)**{{< /td-colspan >}} |||
-| 7 | The Soul in Aristotle | &nbsp; |
-| 8 | Happiness | Exercise 2 due |
-| 9 | Virtue | &nbsp; |
-| {{< td-colspan 3 >}}**Renè Descartes (1596–1650)**{{< /td-colspan >}} |||
-| 10 | Skepticism | &nbsp; |
-| 11 | Cogito | &nbsp; |
-| 12 | Existence of God | &nbsp; |
-| 13 | Distinction between Mind and Body | Paper 1 due |
-| {{< td-colspan 3 >}}**Margaret Cavendish (1623–1673)**{{< /td-colspan >}} |||
-| 14 | Intelligent Matter | &nbsp; |
-| {{< td-colspan 3 >}}**David Hume (1711–1776)**{{< /td-colspan >}} |||
-| 15 | Empiricism | &nbsp; |
-| 16 | Induction | &nbsp; |
-| 17 | Causation | &nbsp; |
-| {{< td-colspan 3 >}}**Immanuel Kant (1724–1804)**{{< /td-colspan >}} |||
-| 18 | The Good Will | &nbsp; |
-| 19 | Hypothetical and Categorical Imperatives | Paper 2 due |
-| 20 | Hypothetical and Categorical Imperatives (Cont.) | &nbsp; |
-| {{< td-colspan 3 >}}**John Stuart Mill (1806–1873)**{{< /td-colspan >}} |||
-| 21 | Utilitarianism | &nbsp; |
-| 22 | Women's Rights? | &nbsp; |
-| 23 | Slavery | &nbsp; |
-| {{< td-colspan 3 >}}**W. E. B. Du Bois (1868–1963)**{{< /td-colspan >}} |||
-| 24 | Double Consciousness | Rewrite of Paper 2 due |
-| {{< td-colspan 3 >}}**Simone de Beauvoir (1908–1986)**{{< /td-colspan >}} |||
-| 25 | Transcendence | &nbsp; |
-| 26 | Last class | Paper 3 due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+First class
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Socrates (c. 470 BCE - 399 BCE) and Plato (429? BCE - 347 BCE)**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Socrates and the Law
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Elenchus
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Akrasia & Pragmatic Paradox
+{{< tdclose >}}
+{{< tdopen >}}
+Exercise 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Knowledge and Learning
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+The Soul in Plato
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Aristotle (384 BCE - 322 BCE)**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+The Soul in Aristotle
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Happiness
+{{< tdclose >}}
+{{< tdopen >}}
+Exercise 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Virtue
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Renè Descartes (1596–1650)**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Skepticism
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Cogito
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Existence of God
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Distinction between Mind and Body
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Margaret Cavendish (1623–1673)**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Intelligent Matter
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**David Hume (1711–1776)**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Empiricism
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Induction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Causation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Immanuel Kant (1724–1804)**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+The Good Will
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Hypothetical and Categorical Imperatives
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Hypothetical and Categorical Imperatives (Cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**John Stuart Mill (1806–1873)**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Utilitarianism
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Women's Rights?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Slavery
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**W. E. B. Du Bois (1868–1963)**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Double Consciousness
+{{< tdclose >}}
+{{< tdopen >}}
+Rewrite of Paper 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Simone de Beauvoir (1908–1986)**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Transcendence
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Last class
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

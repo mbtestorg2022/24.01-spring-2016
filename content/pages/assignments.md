@@ -4,14 +4,75 @@ title: Assignments
 uid: 173df483-ce83-d43e-d35c-fd97a59f4ffc
 ---
 
-| ASSIGNMENTS | DUE DATES |
-| --- | --- |
-| [Exercise 1 (PDF)]({{< baseurl >}}/resources/mit24_01s16_exercise1) | Session 4 |
-| [Exercise 2 (PDF)]({{< baseurl >}}/resources/mit24_01s16_exercise2) | Session 8 |
-| [Paper 1 (PDF)]({{< baseurl >}}/resources/mit24_01s16_paper1) | Session 13 |
-| [Paper 2 (PDF)]({{< baseurl >}}/resources/mit24_01s16_paper2) | Session 19 |
-| Paper 2 Rewrite | Session 24 |
-| [Paper 3 (PDF)]({{< baseurl >}}/resources/mit24_01s16_paper3) | Session 26 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+DUE DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Exercise 1 (PDF)]({{< baseurl >}}/resources/mit24_01s16_exercise1)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Exercise 2 (PDF)]({{< baseurl >}}/resources/mit24_01s16_exercise2)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Paper 1 (PDF)]({{< baseurl >}}/resources/mit24_01s16_paper1)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 13
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Paper 2 (PDF)]({{< baseurl >}}/resources/mit24_01s16_paper2)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 19
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 2 Rewrite
+{{< tdclose >}}
+{{< tdopen >}}
+Session 24
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Paper 3 (PDF)]({{< baseurl >}}/resources/mit24_01s16_paper3)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 26
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Papers
 ------
