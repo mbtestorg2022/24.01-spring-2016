@@ -308,7 +308,7 @@ The Good Will
 
 \[K\] "First Section."
 
-Kant, Immanuel. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Of the Different Human Races."](https://muse.jhu.edu/chapter/966880)
+Kant, Immanuel. ["Of the Different Human Races."](https://muse.jhu.edu/chapter/966880)
 
 
 {{< tdclose >}}

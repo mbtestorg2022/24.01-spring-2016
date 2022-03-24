@@ -12,7 +12,7 @@ Wireless Philosophy. "[PHILOSOPHY—Religion: The Problem of Evil](https://www.y
 
 [Image of the Cave in the Republic](https://faculty.washington.edu/smcohen/320/platoscave.gif).
 
-Plato. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)_[The Allegory of the Cave (PDF)](http://web.stanford.edu/class/ihum40/cave.pdf)._ Translated by Thomas Sheehan. CreateSpace Independent Publishing Platform, 2010. ISBN: 9781452800882.
+Plato. _[The Allegory of the Cave (PDF)](http://web.stanford.edu/class/ihum40/cave.pdf)._ Translated by Thomas Sheehan. CreateSpace Independent Publishing Platform, 2010. ISBN: 9781452800882.
 
 Nails, Debra. "[Socrates](http://plato.stanford.edu/entries/socrates/)." _Stanford Encyclopedia of Philosophy_. Edited by Edward N. Zalta, March 2014.
 
