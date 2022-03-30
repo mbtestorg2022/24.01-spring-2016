@@ -4,6 +4,7 @@ description: Instructions and a writing prompt for a short essay about a passage
   Meno.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/24-01-classics-of-western-philosophy-spring-2016/760bc81350d1b848fde571c05248d786_MIT24_01S16_Exercise1.pdf
 file_type: application/pdf
+parent_uid: 173df483-ce83-d43e-d35c-fd97a59f4ffc
 resourcetype: Document
 title: ' Exercise 1 '
 uid: 760bc813-50d1-b848-fde5-71c05248d786
